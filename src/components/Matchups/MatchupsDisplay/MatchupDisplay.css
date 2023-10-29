@@ -1,0 +1,16 @@
+.matchup-container {
+  display: flex;
+  justify-content: space-between;
+  /* text-align: center; */
+  background-color: #333;
+  margin: 2em;
+  padding: .5em;
+  color: white;
+  border-radius: 15px;
+}
+
+.team-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
